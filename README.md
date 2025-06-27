@@ -9,12 +9,15 @@
 
 | Day  | Date         | File Name                | Description                                               |
 |------|--------------|--------------------------|-----------------------------------------------------------|
-| 1    | 2025-06-25   | `day01_welcome.py`       | Printed a welcome message using `print()` function        |
+| 1    | 2025-06-25   | `day01_welcome.py`       | Printed a welcome message using the `print()` function    |
 | 2    | 2025-06-26   | `day02_basic_math.py`    | Took user input and performed add, sub, mul, and div ops  |
-| 3    |              |                          |                                                           |
+| 3    | 2025-06-27   | `day03_even_or_odd.py`   | Used modulo operator and if-else to check even or odd     |
+| 4    |              |                          |                                                           |
 | ...  |              |                          |                                                           |
 
 ---
 
 ## 📁 Folder Structure
+
+
 
